@@ -1,4 +1,4 @@
-import '../pages/singleComicPage.scss';
+import '../pages/singleComicLayout/singleComicLayout.scss';
 import xMen from '../../resources/img/x-men.png';
 
 const SingleComic = () => {
